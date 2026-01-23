@@ -26,6 +26,9 @@ Such patterns often manifest as repeated cart interactions, prolonged decision-m
 
 - This project aims to analyze user journey and session-level behavioral data to identify friction indicators that may suggest potential dark pattern risks in an e-commerce environment. By examining funnel drop-offs, cart interactions, session duration, and abandonment behavior, the analysis seeks to quantify how these signals impact conversion performance. The ultimate objective is not to accuse or label design practices, but to provide **data-driven insights** that help businesses balance conversion goals with ethical, user-centric design—supporting improved trust, retention, and sustainable growth.
 
+DATASET,CLEAN,EDA,FUNNEL THEN SQL
+
+
 ### Funnel Definition & Metrics
 #### Funnel Structure
 To analyze user behavior and potential friction signals, the following e-commerce funnel is defined based on user interaction events:
